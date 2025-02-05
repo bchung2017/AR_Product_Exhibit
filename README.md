@@ -2,7 +2,7 @@ An augmented-reality product exhibit I developed for a client in 2021 using Unit
 
   
 <p align="center">
-  <img src="portaldemo4.gif" width="400">
+  <img src="portaldemo4.gif" width="200">
 </p>  
 
   
@@ -14,7 +14,7 @@ Additional updates and changes were made to the exhibition area, opting for a br
 
 
 <p align="center">
-  <img src="portaldemo2.gif" width="400">
+  <img src="portaldemo2.gif" width="200">
 </p>  
 
   
