@@ -2,7 +2,7 @@ An augmented-reality product exhibit I developed for a client in 2021 using Unit
 
   
 <p align="center">
-  <img src="portaldemo4.gif" width="200">
+  <img src="portaldemo5.gif" width="200">
 </p>  
 
   
