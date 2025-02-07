@@ -1,4 +1,4 @@
-An augmented-reality product exhibit I developed for a client in 2021 using Unity AR Foundation. Users enter the exhibition area through a portal door into a rustic village, displaying the consumer products in a fantasy environment:  
+An augmented-reality product exhibit I developed for a client in 2021 using Unity AR Foundation. Users enter the exhibition area through a portal door into a rustic cottage, displaying the client's cosmetic products in a fantasy environment:  
 
   
 <p align="center">
