@@ -10,7 +10,6 @@ Additional updates and changes were made to the exhibition area, opting for a br
 -Move around either physically or using a d-pad  
 -Gaze at an AR product to show a menu with more information  
 -Tap the screen to interact with AR menus  
--Gaze at the spots on the floor to quickly teleport  
 
 
 <p align="center">
